@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/mannyaguirre/">Manny Aguirre</a>'s Cybersecurity Project Portfolio 🔐
 
-**Cybersecurity projects focused on threat hunting, detection, and vulnerability management. Work includes KQL investigations in Microsoft Sentinel and Microsoft Defender for Endpoint (MDE), plus remediation and scanning workflows using Tenable.**
+**Building cybersecurity projects focused on threat hunting, detection, and vulnerability management. Work includes KQL investigations in Microsoft Sentinel and Microsoft Defender for Endpoint (MDE), plus remediation and scanning workflows using Tenable.**
 
 ## ⚠️ Vulnerability Management Projects
 
