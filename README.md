@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/mannyaguirre/">Manny Aguirre</a>'s Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Building hands-on cybersecurity projects focused on threat hunting, detection, and vulnerability management. Work includes KQL investigations in Microsoft Sentinel and Microsoft Defender for Endpoint (MDE), plus remediation and scanning workflows using Tenable. Certifications: ISC2 CC | Google Cybersecurity Professional Certificate.
 
 
 ## ⚠️ Vulnerability Management Projects
