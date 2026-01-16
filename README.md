@@ -19,7 +19,7 @@
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mannyaguirre/Threat-Hunting-Scenario-Tor-Browser)**
+- **[Threat Hunting Report: Unauthorized TOR Usage](https://github.com/mannyaguirre/Threat-Hunting-Scenario-Tor-Browser)**
 
 ## 🤳 Connect With Me
 
