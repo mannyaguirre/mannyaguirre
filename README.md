@@ -21,6 +21,10 @@
 
 - **[Threat Hunting Report: Unauthorized TOR Usage](https://github.com/mannyaguirre/Threat-Hunting-Scenario-Tor-Browser)**
 
+## ✅ DISA STIG Audits and Remediations
+
+- **[Windows 11 DISA STIG Finding & Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
