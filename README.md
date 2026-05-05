@@ -21,7 +21,7 @@
 
 - **[Threat Hunting Report: Unauthorized TOR Usage](https://github.com/mannyaguirre/Threat-Hunting-Scenario-Tor-Browser)**
 
-## ✅ DISA STIG Audits and Remediations
+## ✅ Tenable Projects: Scans and Remediations
 
 - **[Using a Scan Template to Scan a Windows 11 VM](https://github.com/mannyaguirre/Tenable-Windows-11-STIG-Scan-Template/tree/main)**
 
