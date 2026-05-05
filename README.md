@@ -25,6 +25,8 @@
 
 - **[Using a Scan Template to Scan a Windows 11 VM](https://github.com/mannyaguirre/Tenable-Windows-11-STIG-Scan-Template/tree/main)**
 
+- **[Implementing a Tenable Nessus Agent Scan: Windows 11 VM](https://github.com/mannyaguirre/Tenable-Nessus-Agent-Scan-Windows-11-VM)**
+
 - **[Windows 11 DISA STIG Finding & Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
 
 ## 🤳 Connect With Me
