@@ -27,6 +27,8 @@
 
 - **[Implementing a Tenable Nessus Agent Scan: Windows 11 VM](https://github.com/mannyaguirre/Tenable-Nessus-Agent-Scan-Windows-11-VM)**
 
+- **[Implementing a Tenable Nessus Agent Scan: Linux VM](https://github.com/mannyaguirre/Tenable-Nessus-Agent-Scan-Linux-VM)**
+
 - **[Windows 11 DISA STIG Finding & Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
 
 ## 🤳 Connect With Me
