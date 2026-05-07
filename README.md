@@ -29,6 +29,8 @@
 
 - **[Implementing a Tenable Nessus Agent Scan: Linux VM](https://github.com/mannyaguirre/Tenable-Nessus-Agent-Scan-Linux-VM)**
 
+- **[Implementing a Tenable Host Discovery Scan: Cyber Range](https://github.com/mannyaguirre/Host-Discovery-Scan)**
+
 - **[Windows 11 DISA STIG Finding & Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
 
 ## 🤳 Connect With Me
