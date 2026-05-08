@@ -23,6 +23,8 @@
 
 ## 🔍 Tenable Projects: Vulnerabilities Scanning
 
+- **[Implementing a Tenable Unauthenticated Basic Network Scan: Windows 11 VM](https://github.com/mannyaguirre/Unauthenticated-Basic-Network-Scan-Windows-11)**
+
 - **[Implementing a Tenable Advanced Network Scan: Windows 11 VM](https://github.com/mannyaguirre/Tenable-Windows-11-STIG-Scan-Template/tree/main)**
 
 - **[Implementing a Tenable Nessus Agent Scan: Windows 11 VM](https://github.com/mannyaguirre/Tenable-Nessus-Agent-Scan-Windows-11-VM)**
