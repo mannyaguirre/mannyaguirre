@@ -32,9 +32,9 @@
 - **[Implementing a Tenable Host Discovery Scan: Cyber Range](https://github.com/mannyaguirre/Host-Discovery-Scan)**
 
 
-- ## ✅ Tenable Projects: Vulnerabilities Remediation
+## ✅ Tenable Projects: Vulnerabilities Remediation
 
-- - **[Windows 11 DISA STIG Finding & Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
+- **[Windows 11 DISA STIG Finding & Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
 
 ## 🤳 Connect With Me
 
