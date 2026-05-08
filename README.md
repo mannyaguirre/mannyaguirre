@@ -21,9 +21,9 @@
 
 - **[Threat Hunting Report: Unauthorized TOR Usage](https://github.com/mannyaguirre/Threat-Hunting-Scenario-Tor-Browser)**
 
-## ✅ Tenable Projects: Scans and Remediations
+## 🔍 Tenable Projects: Vulnerabilities Scanning
 
-- **[Using a Tenable Scan Template: Windows 11 VM](https://github.com/mannyaguirre/Tenable-Windows-11-STIG-Scan-Template/tree/main)**
+- **[Implementing a Tenable Scan Template: Windows 11 VM](https://github.com/mannyaguirre/Tenable-Windows-11-STIG-Scan-Template/tree/main)**
 
 - **[Implementing a Tenable Nessus Agent Scan: Windows 11 VM](https://github.com/mannyaguirre/Tenable-Nessus-Agent-Scan-Windows-11-VM)**
 
@@ -31,7 +31,10 @@
 
 - **[Implementing a Tenable Host Discovery Scan: Cyber Range](https://github.com/mannyaguirre/Host-Discovery-Scan)**
 
-- **[Windows 11 DISA STIG Finding & Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
+
+- ## ✅ Tenable Projects: Vulnerabilities Remediation
+
+- - **[Windows 11 DISA STIG Finding & Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
 
 ## 🤳 Connect With Me
 
