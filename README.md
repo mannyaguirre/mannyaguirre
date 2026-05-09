@@ -10,7 +10,7 @@
 
 - **Microsoft Defender for Endpoint (MDE)**
 
-- **Tenable (vulnerability scanning + remediation**
+- **Tenable (vulnerability scanning + remediation**)
 
 
 ## ⚠️ Vulnerability Management Projects
