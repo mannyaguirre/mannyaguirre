@@ -12,15 +12,6 @@
 
 - **Tenable (vulnerability scanning + remediation**)
 
-
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/mannyaguirre/Vulnerability-Management-Program)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Report: Unauthorized TOR Usage](https://github.com/mannyaguirre/Threat-Hunting-Scenario-Tor-Browser)**
-
 ## 🔍 Tenable Projects: Vulnerabilities Scanning
 
 - **[Implementing a Tenable Unauthenticated Basic Network Scan: Windows 11 VM](https://github.com/mannyaguirre/Unauthenticated-Basic-Network-Scan-Windows-11)**
@@ -41,6 +32,14 @@
 ## ✅ Tenable Projects: Vulnerabilities Remediation
 
 - **[Windows 11 DISA STIG Finding & Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/mannyaguirre/Vulnerability-Management-Program)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Report: Unauthorized TOR Usage](https://github.com/mannyaguirre/Threat-Hunting-Scenario-Tor-Browser)**
 
 ## 🤳 Connect With Me
 
