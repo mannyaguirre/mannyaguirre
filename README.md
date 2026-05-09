@@ -25,9 +25,9 @@
 
 - **[Implementing a Tenable Unauthenticated Basic Network Scan: Windows 11 VM](https://github.com/mannyaguirre/Unauthenticated-Basic-Network-Scan-Windows-11)**
 
-- **[Implementing a Tenable Authenticated Basic Network Scan: Windows 11 VM](https://github.com/mannyaguirre/Authenticated-Basic-Network-Scan-Windows-11)**
-
 - **[Implementing a Tenable Unauthenticated Basic Network Scan: Linux VM](https://github.com/mannyaguirre/Unauthenticated-Basic-Network-Scan-Linux)**
+
+- **[Implementing a Tenable Authenticated Basic Network Scan: Windows 11 VM](https://github.com/mannyaguirre/Authenticated-Basic-Network-Scan-Windows-11)**
 
 - **[Implementing a Tenable Advanced Network Scan - DISA STIG: Windows 11 VM](https://github.com/mannyaguirre/Tenable-Windows-11-STIG-Scan-Template/tree/main)**
 
