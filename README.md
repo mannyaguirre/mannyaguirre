@@ -22,9 +22,9 @@
 
 - **[Implementing a Tenable Advanced Network Scan - DISA STIG: Windows 11 VM](https://github.com/mannyaguirre/Tenable-Windows-11-STIG-Scan-Template/tree/main)**
 
-- **[Implementing a Tenable Nessus Agent Scan: Windows 11 VM](https://github.com/mannyaguirre/Tenable-Nessus-Agent-Scan-Windows-11-VM)**
+- **[Implementing a Tenable Basic Agent Scan: Windows 11 VM](https://github.com/mannyaguirre/Tenable-Nessus-Agent-Scan-Windows-11-VM)**
 
-- **[Implementing a Tenable Nessus Agent Scan: Linux VM](https://github.com/mannyaguirre/Tenable-Nessus-Agent-Scan-Linux-VM)**
+- **[Implementing a Tenable Basic Agent Scan: Linux VM](https://github.com/mannyaguirre/Tenable-Nessus-Agent-Scan-Linux-VM)**
 
 - **[Implementing a Tenable Host Discovery Scan: Cyber Range](https://github.com/mannyaguirre/Host-Discovery-Scan)**
 
