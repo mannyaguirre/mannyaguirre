@@ -1,21 +1,44 @@
 # <a href="https://www.linkedin.com/in/mannyaguirre/">Manuel Aguirre</a>'s Cybersecurity Project Portfolio 🔐
 
-**Cybersecurity projects focused on vulnerability management scanning, vulnerability management remediation, threat hunting and detection**
-
-**Projects include:**
+<img width="812" height="400" alt="cia-triad-thumbnail-(1)33861d20-908d-4cbf-8e71-cf02ecc27b61" src="https://github.com/user-attachments/assets/0d2a7ef4-c8eb-4634-bac2-a551b8554a04" />
 
 
-- Tenable Vulnerability Management
-- Microsoft Azure
-- Microsoft Sentinel
-- Microsoft Defender for Endpoint (MDE)
-- Virtual Machines (Windows 11, Linux)
-- NSG Configuration
-- Firewall Configuration
-- Remote Desktop Connection, SSH, Bastion
-- Powersell
-- KQL Queries
 
+---
+
+## Cybersecurity projects focused on: 
+
+- **Vulnerability Management Scanning**
+- **Vulnerability Management Remediation**
+- **Threat Hunting**
+- **Security Operations**
+  
+---
+
+## Platforms include:
+
+| Component | Description |
+|---|---|
+| Platform | Tenable Vulnerability Management |
+| Platform | Microsoft Azure |
+| Platform | Microsoft Sentinel |
+| Platform | Microsoft Defender for Endpoint (MDE) |
+
+---
+
+## Tools include:
+
+| Component | Description |
+|---|---|
+| Tool | Virtual Machines (Windows 11, Linux) |
+| Tool | NSG Configuration |
+| Tool | Firewall Configuration |
+| Tool | Remote Desktop Connection, SSH, Bastion |
+| Tool | Powershell |
+| Tool | KQL Queries |
+
+
+---
 
 ## 🔍 Tenable Projects: Vulnerabilities Scanning
 
@@ -35,18 +58,25 @@
 
 - **[Implementing a Tenable Host Discovery Scan: Cyber Range](https://github.com/mannyaguirre/Host-Discovery-Scan)**
 
+---
 
 ## ✅ Tenable Projects: Vulnerabilities Remediation
 
 - **[Windows 11 DISA STIG Finding & Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
 
+---
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/mannyaguirre/Vulnerability-Management-Program)**
 
+---
+
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Report: Unauthorized TOR Usage](https://github.com/mannyaguirre/Threat-Hunting-Scenario-Tor-Browser)**
+
+---
 
 ## 🤳 Connect With Me
 
