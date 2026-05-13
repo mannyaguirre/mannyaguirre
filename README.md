@@ -1,8 +1,6 @@
-# <a href="https://www.linkedin.com/in/mannyaguirre/">Manuel Aguirre</a>'s Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/mannyaguirre/">Manuel Aguirre</a>'s Cybersecurity Portfolio 🔐
 
 <img width="812" height="400" alt="cia-triad-thumbnail-(1)33861d20-908d-4cbf-8e71-cf02ecc27b61" src="https://github.com/user-attachments/assets/0d2a7ef4-c8eb-4634-bac2-a551b8554a04" />
-
-
 
 ---
 
@@ -15,28 +13,22 @@
   
 ---
 
-## Platforms include:
+## Platforms used include:
 
-| Component | Description |
-|---|---|
-| Platform | Tenable Vulnerability Management |
-| Platform | Microsoft Azure |
-| Platform | Microsoft Sentinel |
-| Platform | Microsoft Defender for Endpoint (MDE) |
-
+- **Tenable Vulnerability Management**
+- **Microsoft Azure**
+- **Microsoft Sentinel**
+- **Microsoft Defender for Endpoint (MDE)**
 ---
 
-## Tools include:
+## Tools used include:
 
-| Component | Description |
-|---|---|
-| Tool | Virtual Machines (Windows 11, Linux) |
-| Tool | NSG Configuration |
-| Tool | Firewall Configuration |
-| Tool | Remote Desktop Connection, SSH, Bastion |
-| Tool | Powershell |
-| Tool | KQL Queries |
-
+- **Virtual Machines (Windows 11, Linux)**
+- **NSG Configurations**
+- **Firewall Configurations**
+- **Remote Desktop Connection, SSH, Bastion**
+- **Powershell**
+- **KQL Queries**
 
 ---
 
