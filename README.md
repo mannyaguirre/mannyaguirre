@@ -1,16 +1,21 @@
 # <a href="https://www.linkedin.com/in/mannyaguirre/">Manuel Aguirre</a>'s Cybersecurity Project Portfolio 🔐
 
-**Building cybersecurity projects focused on threat hunting, detection, and vulnerability management.**
+**Cybersecurity projects focused on vulnerability management scanning, vulnerability management remediation, threat hunting and detection**
 
-**Projects includes:**
+**Projects include:**
 
-- **KQL queries**
 
-- **Microsoft Sentinel**
+- Tenable Vulnerability Management
+- Microsoft Azure
+- Microsoft Sentinel
+- Microsoft Defender for Endpoint (MDE)
+- Virtual Machines (Windows 11, Linux)
+- NSG Configuration
+- Firewall Configuration
+- Remote Desktop Connection, SSH, Bastion
+- Powersell
+- KQL Queries
 
-- **Microsoft Defender for Endpoint (MDE)**
-
-- **Tenable (vulnerability scanning + remediation**)
 
 ## 🔍 Tenable Projects: Vulnerabilities Scanning
 
