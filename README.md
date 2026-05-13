@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/mannyaguirre/">Manny Aguirre</a>'s Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/mannyaguirre/">Manuel Aguirre</a>'s Cybersecurity Project Portfolio 🔐
 
 **Building cybersecurity projects focused on threat hunting, detection, and vulnerability management.**
 
