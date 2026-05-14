@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/mannyaguirre/">Manuel Aguirre</a>'s Cybersecurity Portfolio 🔐
+# 🔐<a href="https://www.linkedin.com/in/mannyaguirre/">Manuel Aguirre</a>'s Cybersecurity Portfolio🔐
 
 <img width="812" height="400" alt="cia-triad-thumbnail-(1)33861d20-908d-4cbf-8e71-cf02ecc27b61" src="https://github.com/user-attachments/assets/0d2a7ef4-c8eb-4634-bac2-a551b8554a04" />
 
