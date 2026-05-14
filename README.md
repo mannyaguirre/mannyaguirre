@@ -1,6 +1,7 @@
 # 🔐<a href="https://www.linkedin.com/in/mannyaguirre/">Manuel Aguirre</a>'s Cybersecurity Portfolio🔐
 
-<img width="812" height="400" alt="cia-triad-thumbnail-(1)33861d20-908d-4cbf-8e71-cf02ecc27b61" src="https://github.com/user-attachments/assets/0d2a7ef4-c8eb-4634-bac2-a551b8554a04" />
+<img width="707" height="325" alt="Screenshot 2026-05-13 211059" src="https://github.com/user-attachments/assets/b235d13c-c53f-4054-9d01-9f75f27d84da" />
+
 
 ---
 
