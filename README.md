@@ -5,7 +5,7 @@
 
 ---
 
-## Cybersecurity projects focused on: 
+## Cybersecurity projects focus on: 
 
 - **Vulnerability Management Scanning**
 - **Vulnerability Management Remediation**
