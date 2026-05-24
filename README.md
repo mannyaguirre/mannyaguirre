@@ -55,6 +55,8 @@
 
 ## ✅ Tenable Projects: Vulnerabilities Remediation
 
+- **[Vulnerability Remediation & MITRE ATT&CK Mapping](https://github.com/mannyaguirre/Vulnerability-Remediation-MITRE-ATTCK-Mapping)**
+
 - **[Windows 11 DISA STIG Finding & Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
 
 ---
