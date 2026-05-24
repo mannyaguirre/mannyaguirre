@@ -17,10 +17,11 @@
 
 ## Platforms used include:
 
-- **Tenable Vulnerability Management**
 - **Microsoft Azure**
 - **Microsoft Sentinel**
 - **Microsoft Defender for Endpoint (MDE)**
+- **Tenable Vulnerability Management**
+
 ---
 
 ## Tools used include:
@@ -28,8 +29,10 @@
 - **Virtual Machines (Windows 11, Linux)**
 - **NSG Configurations**
 - **Firewall Configurations**
-- **Remote Desktop Connection, SSH, Bastion**
+- **Remote Desktop Connection**
 - **Powershell**
+- **SSH**
+- **Bastion**
 - **KQL Queries**
 
 ---
