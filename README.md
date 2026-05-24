@@ -33,7 +33,7 @@
 
 ---
 
-## 🔍 Tenable Projects: Vulnerabilities Scanning
+## 🔍 Tenable Vulnerability Scanning
 
 - **[Implementing a Tenable Unauthenticated Basic Network Scan: Windows 11 VM](https://github.com/mannyaguirre/Unauthenticated-Basic-Network-Scan-Windows-11)**
 
@@ -53,11 +53,11 @@
 
 ---
 
-## ✅ Tenable Projects: Vulnerabilities Remediation
+## ✅ Vulnerability Remediation & Compliance
 
 - **[Vulnerability Remediation & MITRE ATT&CK Mapping](https://github.com/mannyaguirre/Vulnerability-Remediation-MITRE-ATTCK-Mapping)**
 
-- **[Windows 11 DISA STIG Finding & Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
+- **[Windows 11 DISA STIG Compliance Remediation](https://github.com/mannyaguirre/Windows-11-DISA-STIG-Remediation)**
 
 ---
 
