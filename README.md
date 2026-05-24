@@ -9,6 +9,7 @@
 
 - **Vulnerability Management Scanning**
 - **Vulnerability Management Remediation**
+- **MITRE ATT&CK Mapping**
 - **Threat Hunting**
 - **Security Operations**
   
